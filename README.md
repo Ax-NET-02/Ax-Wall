@@ -32,13 +32,13 @@
 
 [![Demo Screenshot][product-screenshot]](https://github.com/Ax-NET-02)
 
-1. ###### 开源但不免费 服务器需要经济来维持 我也是学生党
+1. ##### 开源但不免费 服务器需要经济来维持 我也是学生党
 
-2. ###### 有部署方法 后面会写教程
+2. ##### 有部署方法 后面会写教程
 
-3. ###### 个人开发者 纯热爱 或许会断更
+3. ##### 个人开发者 纯热爱 或许会断更
 
-4. ###### 邮箱：xiaodian021@gmail.com
+4. ##### 邮箱：xiaodian021@gmail.com
 
 
 ## 项目简介
@@ -50,9 +50,9 @@
 
 2. ##### FastAPI
 
-###### 目前做过很多FastAPI和Flask的项目 和Java的Spring Boot 相比的话这两个Python库我更熟悉
+##### 目前做过很多FastAPI和Flask的项目 和Java的Spring Boot 相比的话这两个Python库我更熟悉
 
-###### 我可能会偏向于Python 但是想着一个后端 带前端所有 不知道用Python做后端稳不稳定
+##### 我可能会偏向于Python 但是想着一个后端 带前端所有 不知道用Python做后端稳不稳定
 
 #### 前端：
 
@@ -90,15 +90,15 @@
 
 ## 贡献
 
-贡献让开源社区成为了一个非常适合学习、启发和创新的地方。你所做出的任何贡献都是**受人尊敬**的。
+##### 贡献让开源社区成为了一个非常适合学习、启发和创新的地方。你所做出的任何贡献都是**受人尊敬**的。
 
-如果你有好的建议，请分支（Fork）本仓库并且创建一个拉取请求（Pull Request）。你也可以简单地创建一个议题（Issue），并且添加标签「Enhancement」。不要忘记给项目点一个 Star⭐！再次感谢！
+##### 如果你有好的建议，请分支（Fork）本仓库并且创建一个拉取请求（Pull Request）。你也可以简单地创建一个议题（Issue），并且添加标签「Enhancement」。不要忘记给项目点一个 Star⭐！再次感谢！
 
-1. 复刻（Fork）本项目
-2. 创建你的 Feature 分支 (git checkout -b feature/AmazingFeature)
-3. 提交你的变更 (git commit -m 'Add some AmazingFeature')
-4. 推送到该分支 (git push origin feature/AmazingFeature)
-5. 创建一个拉取请求（Pull Request）
+1. ##### 复刻（Fork）本项目
+2. ##### 创建你的 Feature 分支 (git checkout -b feature/AmazingFeature)
+3. ##### 提交你的变更 (git commit -m 'Add some AmazingFeature')
+4. ##### 推送到该分支 (git push origin feature/AmazingFeature)
+5. ##### 创建一个拉取请求（Pull Request）
 
 
 
@@ -107,7 +107,7 @@
 <!-- LICENSE -->
 ## 许可证
 
-根据 GPL v3.0 许可证分发。打开 `LICENSE` 查看更多内容。
+##### 根据 GPL v3.0 许可证分发。打开 `LICENSE` 查看更多内容
 
 
 
