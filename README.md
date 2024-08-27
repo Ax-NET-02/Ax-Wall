@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 关于本项目
 
-[![Demo Screenshot][product-screenshot]](https://space.bilibili.com/437313511)
+[![Demo Screenshot][product-screenshot]](https://github.com/Ax-NET-02)
 
 1. ###### 开源但不免费 服务器需要经济来维持 我也是学生党
 
@@ -41,10 +41,10 @@
 4. ###### 邮箱：xiaodian021@gmail.com
 
 
-## 项目简介：
+## 项目简介
 #### 后端：
 
-本项目 目前还没有确定用什么后端来进行开发 目前有两个选择：
+##### 本项目 目前还没有确定用什么后端来进行开发 目前有两个选择：
 
 1. ##### Spring Boot
 
@@ -56,21 +56,35 @@
 
 #### 前端：
 
-###### 前端的话 我可能考虑的比较多：
+##### 前端的话 我可能考虑的比较多：
 
 1. ##### 电脑端：
 
-   电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库 [[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
+   ##### 电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库 [[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)]
 
 2. ##### 手机端：
 
-   - Android
-   - IOS[可能会出]
-   - 小程序
+   - ##### Android
+   - ##### IOS[可能会出]
+   - ##### 小程序
 
 3. ##### 网页端:
 
-   用Vue3做主体框架 向后端请求API接口
+   ##### 用Vue3做主体框架 向后端请求API接口
+
+## 界面介绍
+
+#### 界面分区：
+
+1. ##### [征婚专区]-在这里可以发布一些表白的内容 CPDD等等
+
+2. ##### [失物招领专区]-在这里可以发布寻找丢失的物品 这个专区可以优先审核通过 并推流
+
+3. ##### [公告栏]-顾名思义 这里是服务器更新或者发布的公告
+
+4. ##### [广告栏]-发布一些广告 得收益啊 老铁们
+
+5. ##### [社区]-这里是社区内容 讨论 聊天都可以 日常帖子就可以在这里发布
 
 <!-- CONTRIBUTING -->
 
@@ -117,4 +131,4 @@
 [issues-url]: https://github.com/Ax-NET-02/Ax-Wall/issues
 [license-shield]: https://img.shields.io/github/license/Ax-NET-02/Ax-Wall.svg?style=for-the-badge
 [license-url]: https://github.com/Ax-NET-02/Ax-Wall/blob/master/LICENSE
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/image/screenshot.png
