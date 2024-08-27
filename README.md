@@ -5,7 +5,7 @@
     <img src="images/icon/wall.png" alt="Logo" width="240" height="240">
   </a>
 
-<h3 align="center">Ax-Wall 2.0</h3>
+<h1 align="center">Ax-Wall 2.0</h1>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
