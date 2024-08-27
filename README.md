@@ -5,7 +5,7 @@
     <img src="images/icon/wall.png" alt="Logo" width="240" height="240">
   </a>
 
-<h1 align="center">Ax-Wall 2.0</h1>
+<h3 align="center">Ax-Wall 2.0</h3>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -42,28 +42,38 @@
 
 
 ## 项目简介：
-##### 后端：
+#### 后端：
 
 本项目 目前还没有确定用什么后端来进行开发 目前有两个选择：
 
-1. ###### Spring Boot
+1. ##### Spring Boot
 
-2. ###### FastAPI
+2. ##### FastAPI
 
-目前做过很多FastAPI和Flask的项目 和Java的Spring Boot 相比的话这两个Python库我更熟悉
+###### 目前做过很多FastAPI和Flask的项目 和Java的Spring Boot 相比的话这两个Python库我更熟悉
 
-我可能会偏向于Python 但是想着一个后端 带前端所有 不知道用Python做后端稳不稳定
+###### 我可能会偏向于Python 但是想着一个后端 带前端所有 不知道用Python做后端稳不稳定
 
-##### 前端：
+#### 前端：
 
-前端的话 我可能考虑的比较多：
+###### 前端的话 我可能考虑的比较多：
 
-1. 电脑端：
+1. ##### 电脑端：
 
-   电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库 [[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
+   电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库 [[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
+2. ##### 手机端：
+
+   - Android
+   - IOS[可能会出]
+   - 小程序
+
+3. ##### 网页端:
+
+   用Vue3做主体框架 向后端请求API接口
 
 <!-- CONTRIBUTING -->
+
 ## 贡献
 
 贡献让开源社区成为了一个非常适合学习、启发和创新的地方。你所做出的任何贡献都是**受人尊敬**的。
