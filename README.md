@@ -4,8 +4,7 @@
   <a href="https://github.com/Ax-NET-02/Ax-Wall">
     <img src="images/icon/wall.png" alt="Logo" width="240" height="240">
   </a>
-
-<h3 align="center">Ax-Wall 2.0</h3>
+<h2 align="center">Ax-Wall 2.0</h2>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -14,14 +13,15 @@
 [![License][license-shield]][license-url]
 
   <p align="center">
-    一款基于 PySide6 的新一代多线程下载器, 使用 QThread 实现多线程功能
+    之前开发的Confession_wall 由于之前技术不过硬 开发的和屎一样 这次全部推翻重做
     <br />
-    由于项目开发者高三开学，项目更新十分缓慢😭 可加QQ群获取项目作者最新消息: 531928387
+    此项目为个人开发者 项目更新缓慢
     <br />
-    <a href="https://github.com/Ax-NET-02/Ax-Wall/issues/new?labels=bug&template=bug-report---.md">提交 Bug</a>
+    <a href="https://github.com/Ax-NET-02/Ax-Wall/issues/new?labels=bug&template=bug-report---.md">提交你发现的Bug</a>
     ·
-    <a href="https://github.com/Ax-NET-02/Ax-Wall/issues/new?labels=enhancement&template=feature-request---.md">提出需求</a>
+    <a href="https://github.com/Ax-NET-02/Ax-Wall/issues/new?labels=enhancement&template=feature-request---.md">提出你想要需求</a>
   </p>
+
 </div>
 
 
@@ -59,10 +59,10 @@
 
 1. 电脑端：
 
-   电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库
-
+   电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库 [[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
 <!-- CONTRIBUTING -->
+
 ## 贡献
 
 贡献让开源社区成为了一个非常适合学习、启发和创新的地方。你所做出的任何贡献都是**受人尊敬**的。
