@@ -4,7 +4,8 @@
   <a href="https://github.com/Ax-NET-02/Ax-Wall">
     <img src="images/icon/wall.png" alt="Logo" width="240" height="240">
   </a>
-<h2 align="center">Ax-Wall 2.0</h2>
+
+<h3 align="center">Ax-Wall 2.0</h3>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -61,8 +62,8 @@
 
    电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库 [[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
-<!-- CONTRIBUTING -->
 
+<!-- CONTRIBUTING -->
 ## 贡献
 
 贡献让开源社区成为了一个非常适合学习、启发和创新的地方。你所做出的任何贡献都是**受人尊敬**的。
