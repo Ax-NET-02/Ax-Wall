@@ -31,12 +31,35 @@
 
 [![Demo Screenshot][product-screenshot]](https://space.bilibili.com/437313511)
 
-在兴趣驱动下完成的一个下载器，是本人的第一个Python项目😫，本来的目的是帮B站上一位UP主做资源整合的😵。支持多线程下载、断点续传、下载记录、校验文件等功能。特点是能像IDM一样智能分块但又不需要合并文件。但是Python和Qt💩一样的内存占用成为项目很大的槽点😭不过得益于Python人人都可以开发的特性。本项目未来将会开放插件功能，发挥Python最大的优势。
+1. ###### 开源但不免费 服务器需要经济来维持 我也是学生党
+
+2. ###### 有部署方法 后面会写教程
+
+3. ###### 个人开发者 纯热爱 或许会断更
+
+4. ###### 邮箱：xiaodian021@gmail.com
 
 
-## 须知
-* 在开发环境中运行 `main.py` 时请加上 `--debug` 实参。
-* `PySide6` `v6.4.2` 以上版本与 `PySide6-Fluent-Widgets` 兼容不佳，需要手动调整 `PySide6-Fluent-Widgets` 的代码。
+## 项目简介：
+##### 后端：
+
+本项目 目前还没有确定用什么后端来进行开发 目前有两个选择：
+
+1. ###### Spring Boot
+
+2. ###### FastAPI
+
+目前做过很多FastAPI和Flask的项目 和Java的Spring Boot 相比的话这两个Python库我更熟悉
+
+我可能会偏向于Python 但是想着一个后端 带前端所有 不知道用Python做后端稳不稳定
+
+##### 前端：
+
+前端的话 我可能考虑的比较多：
+
+1. 电脑端：
+
+   电脑端的话 我可能会用Python的PyQT做为GUI界面 最近也找到一个很好看的UI库
 
 
 <!-- CONTRIBUTING -->
